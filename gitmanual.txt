@@ -78,3 +78,11 @@ git push origin origin/develop:master
 Добавить ветку test в удаленный репозиторий origin, указывающую на коммит ветки develop:
 
 git push origin origin/develop:refs/heads/test
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Продолжение следует...
+>>>>>>> second commit
+=======
+Продолжение следует...
+>>>>>>> 2dd147acb56ee12220df4c53b35e4eda84dc6bdc
